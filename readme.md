@@ -36,7 +36,7 @@ A machine learning-based web application that predicts multiple diseases (Diabet
 - NumPy  
 
 ### Deployment
-- Heroku (or alternative)  
+- Streamlit  
 
 ## Installation
 
