@@ -1,6 +1,6 @@
 # Multiple Disease Prediction System
 
-![Project Banner](https://github.com/paragnema1/Multiple_Disease_Prediction_System/blob/main/assets/banner.png?raw=true)
+![Project Banner](https://redresscompliance.com/wp-content/uploads/2024/05/Role-of-AI-in-Disease-Prediction-1024x585.webp)
 
 A machine learning-based web application that predicts multiple diseases (Diabetes, Heart Disease, Parkinson's Disease, etc.) using patient symptoms and medical data.
 
