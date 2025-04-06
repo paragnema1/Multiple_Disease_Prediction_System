@@ -1,12 +1,18 @@
 # Multiple Disease Prediction System
 
+### To Test Project
+
+👉 [Project Link](https://multiple-disease-prediction---system.streamlit.app/)
+
 ![Project Banner](https://redresscompliance.com/wp-content/uploads/2024/05/Role-of-AI-in-Disease-Prediction-1024x585.webp)
 
 A machine learning-based web application that predicts multiple diseases (Diabetes, Heart Disease, Parkinson's Disease, etc.) using patient symptoms and medical data.
 
-### To Test Project
+## 🔍 Web Interface Preview
 
-👉 [Project Link](https://multiple-disease-prediction---system.streamlit.app/)
+![Web Interface Screenshot](https://github.com/paragnema1/Multiple_Disease_Prediction_System/blob/main/assets/parkinsons_ui.png)
+
+*(This screenshot shows the Parkinson’s Disease prediction form from the web interface)*
 
 ## Features
 
@@ -14,12 +20,6 @@ A machine learning-based web application that predicts multiple diseases (Diabet
 - **User-Friendly Interface**: Simple web form for inputting medical parameters  
 - **Machine Learning Models**: Trained models for each disease prediction  
 - **Responsive Design**: Works on desktop and mobile devices  
-
-## 🔍 Web Interface Preview
-
-![Web Interface Screenshot](https://github.com/paragnema1/Multiple_Disease_Prediction_System/blob/main/assets/parkinsons_ui.png)
-
-*(This screenshot shows the Parkinson’s Disease prediction form from the web interface)*
 
 ## Technologies Used
 
