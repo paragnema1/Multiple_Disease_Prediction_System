@@ -4,57 +4,55 @@
 
 A machine learning-based web application that predicts multiple diseases (Diabetes, Heart Disease, Parkinson's Disease, etc.) using patient symptoms and medical data.
 
+### To Test Project
+
+👉 [Project Link](https://multiple-disease-prediction---system.streamlit.app/)
+
 ## Features
 
-- **Multi-Disease Prediction**: Predicts likelihood of Diabetes, Heart Disease, and Parkinson's Disease
-- **User-Friendly Interface**: Simple web form for inputting medical parameters
-- **Machine Learning Models**: Trained models for each disease prediction
-- **Responsive Design**: Works on desktop and mobile devices
+- **Multi-Disease Prediction**: Predicts likelihood of Diabetes, Heart Disease, and Parkinson's Disease  
+- **User-Friendly Interface**: Simple web form for inputting medical parameters  
+- **Machine Learning Models**: Trained models for each disease prediction  
+- **Responsive Design**: Works on desktop and mobile devices  
+
+## 🔍 Web Interface Preview
+
+![Web Interface Screenshot](https://github.com/paragnema1/Multiple_Disease_Prediction_System/blob/main/assets/parkinsons_ui.png)
+
+*(This screenshot shows the Parkinson’s Disease prediction form from the web interface)*
 
 ## Technologies Used
 
 ### Frontend
-- HTML5, CSS3
-- JavaScript
-- Bootstrap 5
+- HTML5, CSS3  
+- JavaScript  
+- Bootstrap 5  
 
 ### Backend
-- Python
-- Flask
+- Python  
+- Flask  
 
 ### Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
+- Scikit-learn  
+- Pandas  
+- NumPy  
 
 ### Deployment
-- Heroku (or alternative)
+- Heroku (or alternative)  
 
 ## Installation
 
 ### Prerequisites
-- Python 3.8+
-- pip
+- Python 3.8+  
+- pip  
 - virtualenv (recommended)
 
-### To Test Project
 
-[Project](https://multiple-disease-prediction---system.streamlit.app/)
+## Contact
 
-### Project Structure
-Multiple_Disease_Prediction_System/
-├── static/               # Static files (CSS, JS, images)
-├── templates/            # HTML templates
-├── models/               # Trained ML models
-├── notebooks/            # Jupyter notebooks for model development
-├── dataset/              # Training datasets
-├── app.py                # Flask application
-├── requirements.txt      # Python dependencies
-└── README.md
-
-### Contact
-Project Maintainer - [Parag Nema](https://github.com/paragnema1)
+Project Maintainer - [Parag Nema](https://github.com/paragnema1)  
 For questions or suggestions, please open an issue on GitHub.
 
-### Acknowledgements
+## Acknowledgements
+
 Dataset sources: Kaggle, UCI Machine Learning Repository
